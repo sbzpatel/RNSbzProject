@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095824502537",
+    "project_id": "sbzproject",
+    "storage_bucket": "sbzproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095824502537:android:5f6760268cbc8115056dd8",
+        "android_client_info": {
+          "package_name": "com.sbzproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUgInKKaQMAPDBXuS1SBr7o1M7DLdzzlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
